@@ -1,0 +1,40 @@
+# Use this to outline your architecture, list the design patterns
+# you used in your code and how you used them. Use a few as appropriate
+# to make your code better, using them to complicate code will not help
+# your marks. Start by looking at the design patterns we covered in class.
+
+# USED 
+Observer/Observable : Created by arnold, to be used by the View to observe the Model.
+Observer/Observable : Othello observes a Timer, and the Timer observes Othello. When the Timer counts to 0, the othello game 
+	is notified. When a change occurs on othello due to a player move, the timer is notified to change.
+Observer/Observable : Player's now observe the Othello game instead of keeping track of it in an instance variable. 
+The Player plans their next move when the next turn is theirs.
+Visitor: Players can now visit the Othello game to make their moves. (Emily)
+Visitor: The OthelloBoard can now be visited. They are primarily visited by TileVisitor (Emily)
+Visitor: The TileSpaces on OthelloBoard can now be visited. They are primarily visited by TileVisitor (Emily)
+Iterator: In TileSpace, an LineIterator is used to process adjacent spaces spanning a line. (Emily)
+Singleton: Input Handler is used through out the classes to handle input and to avoid making a Input Handler instance 
+	every time we use it, we made it a singleton. 
+Factory: Used to  set player type's for each player (i.e. playerGreedy, player Human, etc). 
+Command: Used to keep track of all the moves performed by the players during the game via the row, col,and player 
+	that made the move. 
+Observer/Observable: Labels on top and bottom bar of console observe the othello game that is being played and 
+	alter depending on what happens during the game.
+Strategy: We have a abstract class for Player that is our Strategy 'interface' and  we specific player classes 
+such as PlayerGreedy and PlayerRandom to represent different  concrete playing strategies for the players.
+# UNUSED
+Decorator     
+State
+Adapter
+Flyweight
+Facade
+Proxy
+Composite
+Prototype
+Abstract Factory
+Bridge
+Template Method
+Builder
+Chain of Responsibility
+...
+There are more...

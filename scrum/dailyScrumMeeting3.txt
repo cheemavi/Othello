@@ -1,0 +1,236 @@
+# Fill in, commit and push each day.
+Member name: Viponpreet Kaur email:     utorid:   cheemavi
+
+Oct 17,2019
+	What I did yesterday:other class work
+	What I will do today:other class work
+	Obstacles I face:being behind on school work due to being ill
+
+Oct 18,2019
+	What I did yesterday:other class work
+	What I will do today:other class work
+	Obstacles I face:being behind on school work due to being ill 
+
+
+Oct 19,2019
+	What I did yesterday:other class work
+	What I will do today:other class work
+	Obstacles I face:being behind on school work due to being ill
+
+Oct 20,2019
+	What I did yesterday:other class work
+	What I will do today:other class work
+	Obstacles I face:catching up on work
+
+Oct 21,2019
+	What I did yesterday:other class work
+	What I will do today:other class work
+	Obstacles I face: catching up on phl245
+
+Oct 22,2019
+	What I did yesterday:other class work
+	What I will do today:other class work
+	Obstacles I face: studying for classes
+
+Oct 23,2019
+	What I did yesterday:other class work
+	What I will do today: add my information to the members.txt file
+	Obstacles I face:not any I know of
+
+Oct 24,2019
+	What I did yesterday:study for phl245
+	What I will do today:study for phl245
+	Obstacles I face:none as of now
+
+Oct 25,2019
+	What I did yesterday: studying for phl245
+	What I will do today: do bug #3
+	Obstacles I face: Not setting up properly
+
+Oct 26,2019
+	What I did yesterday:Bug#3
+	What I will do today:Plan out the back log for next week with my group and format the back logs properly and
+	update them as my group works on sprint 1 stuff
+	Obstacles I face:Group members having different opinions 
+	on things.
+
+Oct 27,2019
+	What I did yesterday: Essentially just going threw sprint 1 and planning roughly for sprint 2 
+	What I will do today: I will try US 1.02 for my group
+	Obstacles I face: understanding everything and what my group mates did
+
+Oct 28,2019
+	What I did yesterday:trying to understand everything fully 
+	What I will do today: Try to maintain the scrum of the group,and do 2 user stories (1.03 & 1.04) or atleast
+	figure them out.
+	Obstacles I face: Syntax Errors and debugging. 
+
+Oct 29,2019
+	What I did yesterday: Added textboxes to display the player's count and etc. to board.
+	What I will do today:Implement the Observer -Observable design pattern to update data in text boxes made
+	a day prior.
+	Obstacles I face: Trying to maintain and do MVC properly( I understand generally but struggle implementing)
+
+Oct 30,2019
+	What I did yesterday:Try to debug my member's code.
+	What I will do today: Finish off a few of my user stories 
+	Obstacles I face: Fully getting the design patterns and having them hold as I code
+
+Oct 31,2019
+	What I did yesterday:Getting some of my user stories done.
+	What I will do today:Study for 207.
+	Obstacles I face: Getting confused with topics.
+
+Nov 1,2019
+	What I did yesterday:Study for 207.
+	What I will do today:Study for 207.
+	Obstacles I face: getting confused with topics.
+
+Nov 2,2019
+	What I did yesterday:Studying for 207 and 207 midterm.
+	What I will do today: Study for MAT223.
+	Obstacles I face: Getting all my work done so I have time to do a2.
+
+Nov 3,2019
+	What I did yesterday: MAT223 STUDY.
+	What I will do today:Finish user story 1.07. Create new icons for players that look 
+	better and add them to GUI.
+	Obstacles I face:Getting bugs as I do my USs.
+
+Nov 4,2019
+	What I did yesterday: Finish US 1.07. Add and create new icons for players for the GUI.
+	What I will do today:Create Buttons for my user story and help with factory design
+	pattern for one of my group member's code. 
+	Obstacles I face:Trying to make sure everything goes okay.
+
+Nov 5,2019
+	What I did yesterday: Make buttons for my US.
+	What I will do today:Study and catch up in other courses I neglected while studying for 207.
+	Obstacles I face:Getting caught up.
+
+Nov 6,2019
+	What I did yesterday:Catching up in courses.
+	What I will do today:Figure out a rough implementation for restart button and continue
+	implementation.
+	Obstacles I face:Accounting for all connections and connecting everything properly.
+
+Nov 7,2019
+	What I did yesterday:Study for 223
+	What I will do today:Go over command design pattern
+	Obstacles I face: getting the design pattern fully 
+
+Nov 8,2019
+	What I did yesterday:Plan out how I was going to fix our messy GUI display.
+	What I will do today:Fix GUI display.
+	Obstacles I face:Making the GUI look more organized and not spacing correctly.
+
+Nov 9,2019
+	What I did yesterday:Adding US1.071 back to GUI and fixing the GUI display so it didn't
+	look as messy as it was.
+	What I will do today:Finish my restart button, add icons to my audio buttons, and keep
+	working on fixing the GUI display so it doesn't look too messy.
+	Obstacles I face: Making the GUI look organized and running into errors while applying 
+	design patterns.
+
+Nov 10,2019
+	What I did yesterday: Adding my reset button and making sure it worked properly.
+	What I will do today: Add music to game, make music loop over, and control playing of 
+	music via button clicks.
+	Obstacles I face:Trying to get the proper path of my audio and adding it correctly to 
+	our application.
+
+Nov 11,2019
+	What I did yesterday: Adding music to game and controls for music.
+	What I will do today:Fix a path issue I had for playing my music.
+	Obstacles I face:Getting my music to play properly.
+
+Nov 12,2019
+	What I did yesterday:Fixing a path issue for playing my music.
+	What I will do today:236
+	Obstacles I face:not panicking
+
+Nov 13,2019
+	What I did yesterday:236
+	What I will do today:study for 236
+	Obstacles I face:not panicking
+
+Nov 14,2019
+	What I did yesterday:236 midterm
+	What I will do today:Test out code on lab computers and fix layout so looks okay on lab computers.
+	Obstacles I face: Formatting Issues.
+
+Nov 15,2019
+	What I did yesterday: Formatting on lab computers and repo issues.
+	What I will do today: Start my undo button.
+	Obstacles I face:Trying to comprehend how to connect stuff properly.
+
+Nov 16,2019
+	What I did yesterday:Scrum meeting and starting undo button.
+	What I will do today:Work on undo button and fix a label bug.
+	Obstacles I face: Breaking Code.
+
+Nov 17,2019
+	What I did yesterday: Making my undo button undo a move and fixing a label bug.
+	What I will do today: Fixing a bug in the timer, java docing most of the classes, and 
+	writing architecture.txt. 
+	Obstacles I face: Getting everything done on time.
+
+Nov 18,2019
+	What I did yesterday:Finishing up the assignment.
+	What I will do today:
+	Obstacles I face:
+
+Nov 19,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 20,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 21,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 22,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 23,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 24,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 25,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 26,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 27,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 28,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 29,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:

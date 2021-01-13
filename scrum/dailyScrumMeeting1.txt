@@ -1,0 +1,224 @@
+# Fill in, commit and push each day.
+Member name:Emily Wu    email:emil.wu@mail.utoronto.ca     utorid: wuemily2
+
+Oct 17,2019
+	What I did yesterday: Other class work
+	What I will do today: Other class work
+	Obstacles I face: will to live
+
+Oct 18,2019
+	What I did yesterday: Other class work
+	What I will do today: Other class work
+	Obstacles I face: will to live
+
+Oct 19,2019
+	What I did yesterday: Other class work
+	What I will do today: Other class work
+	Obstacles I face: will to live
+
+Oct 20,2019
+	What I did yesterday: Other class work
+	What I will do today: Other class work
+	Obstacles I face: will to live
+
+Oct 21,2019
+	What I did yesterday: Other class work
+	What I will do today: Other class work
+	Obstacles I face: will to live
+
+Oct 22,2019
+	What I did yesterday: Other class work
+	What I will do today: Other class work
+	Obstacles I face: will to live
+
+Oct 23,2019
+	What I did yesterday: Other class work
+	What I will do today: Other class work, read assignment details
+	Obstacles I face: will to live, CSC236 test
+
+Oct 24,2019
+	What I did yesterday:Other class work, read assignment details
+	What I will do today: fill in members.txt
+	Obstacles I face: will to live
+
+Oct 25,2019
+	What I did yesterday: I filled in members.txt
+	What I will do today: I will try to finish bugs 1 to 4
+	Obstacles I face: My mat232 calc test, and my will to live.
+
+Oct 26,2019
+	What I did yesterday: Accomplished bug 1
+	What I will do today: Finish User Story 1.01
+	Obstacles I face: Time Management Skill
+
+Oct 27,2019
+	What I did yesterday: Finished User Story 1.01
+	What I will do today: Nothing
+	Obstacles I face: Readings and more Readings
+
+Oct 28,2019
+	What I did yesterday: Readings
+	What I will do today: More Readings, nothing on A2
+	Obstacles I face: Time Management
+
+Oct 29,2019
+	What I did yesterday: Basic Timer Implementation
+	What I will do today: Other Course Work
+	Obstacles I face: Timer not Chess-like
+
+Oct 30,2019
+	What I did yesterday: Other Course Work
+	What I will do today: Other Course Work
+	Obstacles I face: Group management issues
+
+Oct 31,2019
+	What I did yesterday: Other Course Work
+	What I will do today: Fixing BUG 1.09 because I fcked up my initial implementation
+                              I also completed User Story 1.06.
+	Obstacles I face: My own stupidity and incompetence.
+
+Nov 1,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face: CSC207 Midterm
+
+Nov 2,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face: Deep thoughts
+
+Nov 3,2019
+	What I did yesterday: thought about design patterns
+	What I will do today: scrum planning meeting
+	Obstacles I face: My level of competence
+
+Nov 4,2019
+	What I did yesterday: Scrum planning meeting
+	What I will do today: CSC290 midterm
+	Obstacles I face: My work ethic and my IQ
+
+Nov 5,2019
+	What I did yesterday: CSC290 midterm and lots of lectures.
+	What I will do today: Think about implementation and refactoring for design patterns
+	Obstacles I face: Code tracing.
+
+Nov 6,2019
+	What I did yesterday:Think.
+	What I will do today: Think.
+	Obstacles I face: Time management.
+
+Nov 7,2019
+	What I did yesterday: Think about implementation
+	What I will do today: Mat 223 Midterm
+	Obstacles I face: Time remaining
+
+Nov 8,2019
+	What I did yesterday: Mat223 midterm
+	What I will do today: CSC236 Problem set due today. 
+		I'll also be working on implementing the View refactoring.
+	Obstacles I face: My consciousness.
+
+Nov 9,2019
+	What I did yesterday: CSC236 Problem Set
+	What I will do today: MVC Refactoring, as well as making a few buttons operational
+	Obstacles I face: Doing the important refactoring before my group
+
+Nov 10,2019
+	What I did yesterday:Refactoring
+	What I will do today: Other Course work
+	Obstacles I face:
+
+Nov 11,2019
+	What I did yesterday: Other Course Work
+	What I will do today: Scrum Planning meeting
+	Obstacles I face: The future, stonks
+
+Nov 12,2019
+	What I did yesterday: Scrum Planning Meeting
+	What I will do today: Study for CSC236
+	Obstacles I face: My Depression
+
+Nov 13,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 14,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 15,2019
+	What I did yesterday: Visitor Implementation
+	What I will do today: Project Meeting
+	Obstacles I face: Sleep Deprivation
+
+Nov 16,2019
+	What I did yesterday: Visitor implementation and Project Meeting
+	What I will do today: helping members
+	Obstacles I face:
+
+Nov 17,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 18,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 19,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 20,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 21,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 22,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 23,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 24,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 25,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 26,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 27,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 28,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 29,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:

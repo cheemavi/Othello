@@ -1,0 +1,222 @@
+# Fill in, commit and push each day.
+Member name: Mayra Nihal     email: mayra.nihal@mail.utoronto.ca   utorid: nihalmay
+
+Oct 17,2019
+	What I did yesterday: Did other coursework
+	What I will do today: Work on CSC236 coursework
+	Obstacles I face: Time management skills
+
+Oct 18,2019
+	What I did yesterday: Worked on CSC236
+	What I will do today: Finish 236 problem set
+	Obstacles I face: Time management skills
+
+Oct 19,2019
+	What I did yesterday: Other coursework
+	What I will do today: Other coursework
+	Obstacles I face:
+
+Oct 20,2019
+	What I did yesterday: Other coursework
+	What I will do today: Other coursework 
+	Obstacles I face: Managing my time with other Evaluations due for other courses like CSC290 Design Presentation and CSC236 midterm. 
+
+Oct 21,2019
+	What I did yesterday: Other coursework
+	What I will do today: Finish CSC290 group presentation, and study for CSC236 midterm
+	Obstacles I face: CSC290 Design Review Presentation 
+
+Oct 22,2019
+	What I did yesterday: Study for CSC236 midterm
+	What I will do today: Study for CSC236 midterm
+	Obstacles I face: CSC236 Midterm
+
+Oct 23,2019
+	What I did yesterday: Study for CSC236 Midterm 
+	What I will do today: Study for CSC236 Midterm
+	Obstacles I face: CSC236 Midterm
+
+Oct 24,2019
+	What I did yesterday: CSC236 midterm
+	What I will do today: Add my info to members.txt, start looking at the rest of the files in the Assignment 2 Repo, specifically the UserStories.
+	Obstacles I face:
+
+Oct 25,2019
+	What I did yesterday: Added my information to the members.txt file
+	What I will do today: Finish Bug #1, and continue delving into the User Stories in preparation for tomorrow's Sprint meeting.
+	Obstacles I face:
+
+Oct 26,2019
+	What I did yesterday: Finished Bug #1.
+	What I will do today: Meet up with the group to discuss Sprint 1 & Sprint 2, and decide who does which Stories into Sprint2
+	Obstacles I face:
+
+Oct 27,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 28,2019
+	What I did yesterday: Go over MVC and Observable/Obverver
+	What I will do today: Complete Bug 1.021 and User Story 1.05
+	Obstacles I face: 
+
+Oct 29,2019
+	What I did yesterday: Completed Bug 1.021, and went over MVC 
+	What I will do today: Finish User Story 1.05
+	Obstacles I face: Connecting all the pieces of the game to successfully work
+
+Oct 30,2019
+	What I did yesterday: Completed User Story 1.05 
+	What I will do today: Study for 207 Midterm
+	Obstacles I face: Time management skills
+
+Oct 31,2019
+	What I did yesterday: Study for 207 midterm
+	What I will do today: Study for 207 midterm 
+	Obstacles I face: Managing time between multiple evaluations
+
+Nov 1,2019
+	What I did yesterday: Study for 207 Midterm
+	What I will do today: Study for 207 midterm and afterwards start User Story 1.08
+	Obstacles I face: eating and sleeping healthily
+
+Nov 2,2019
+	What I did yesterday: Study for 207 midterm 
+ 	What I will do today: Start US 1.08, will probably add the 2 extra helper User Stories from the course website
+	Obstacles I face: 
+
+Nov 3,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 4,2019
+	What I did yesterday:
+	What I will do today: Worked on US 1.078
+	Obstacles I face:
+
+Nov 5,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 6,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 7,2019
+	What I did yesterday: STA256 studying
+	What I will do today: STA246 studying
+	Obstacles I face:
+
+Nov 8,2019
+	What I did yesterday: Worked on CSC263 Problem set
+	What I will do today: Work on the update methods for US1.08
+	Obstacles I face: 
+
+Nov 9,2019
+	What I did yesterday: Finish up update methods for US1.08
+	What I will do today:
+	Obstacles I face:
+
+Nov 10,2019
+	What I did yesterday:
+	What I will do today: Work on CSC290
+	Obstacles I face:
+
+Nov 11,2019
+	What I did yesterday: 
+	What I will do today: Implement the Strategy Design Pattern for the different Player Strategies
+	Obstacles I face:
+
+Nov 12,2019
+	What I did yesterday: Implemented the Factory design pattern for the different Player Types and started on the PlayerStrategy DP
+	What I will do today: Study for CSC236 Midterm
+	Obstacles I face: CSC236 Midterm
+
+Nov 13,2019
+	What I did yesterday: Study for CSC236 midterm
+	What I will do today: CSC236 Midterm
+	Obstacles I face: Time Management
+
+Nov 14,2019
+	What I did yesterday: CSC236 Midterm II
+	What I will do today: Finish US1.079 and Go to office hours for US1.08
+	Obstacles I face:
+
+Nov 15,2019
+	What I did yesterday: Finished US1.079 
+	What I will do today: Attend the group scrum meeting and continue on US1.08
+	Obstacles I face: Connecting the game properly
+
+Nov 16,2019
+	What I did yesterday: Worked on US1.08
+	What I will do today: Finished US1.08
+	Obstacles I face: 
+
+Nov 17,2019
+	What I did yesterday: Finished US1.08
+	What I will do today: Finish US1.101, US1.102, US1.10
+	Obstacles I face: Refactoring US1.08 to be more efficient and follow OOP better
+
+Nov 18,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 19,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 20,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 21,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 22,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 23,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 24,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 25,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 26,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 27,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 28,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 29,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:

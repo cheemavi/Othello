@@ -1,0 +1,225 @@
+# Fill in, commit and push each day.
+Member name: JP Moreno  email: jp.moreno@mail.utoronto.ca  utorid: morenoj6
+
+Oct 17,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 18,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 19,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 20,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 21,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 22,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face: csc236 and eco208 midterm tommrow
+
+Oct 23,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face: I had a csc236 and eco208 midterm
+
+Oct 24,2019
+	What I did yesterday:
+	What I will do today:  Added name to members.txt
+	Obstacles I face:
+
+Oct 25,2019
+	What I did yesterday: 
+	What I will do today: Finished bug 0.02
+	Obstacles I face:
+
+Oct 26,2019
+	What I did yesterday: Bug 0.02
+	What I will do today: User story 1.011
+	Obstacles I face: a weird bug with two board
+
+Oct 27,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 28,2019
+	What I did yesterday:
+	What I will do today: work on user story 1.03
+	Obstacles I face:
+
+Oct 29,2019
+	What I did yesterday: finshed user story 1.03
+	What I will do today: fix bug 1.09
+	Obstacles I face:
+
+Oct 30,2019
+	What I did yesterday: worked on bug 1.09
+	What I will do today: refactored othelloapplication
+	Obstacles I face:
+
+Oct 31,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 1,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 2,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 3,2019
+	What I did yesterday:
+	What I will do today: Contribute to group meeting, remove unnecessary files from git repo
+	Obstacles I face: 
+
+Nov 4,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face: Stats Test Tommrow
+
+Nov 5,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face: Stats Test Today
+
+
+Nov 6,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 7,2019
+	What I did yesterday:
+	What I will do today: 
+	Obstacles I face: Microecononmics test
+
+Nov 8,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face: csc236 problemset
+
+Nov 9,2019
+	What I did yesterday:
+	What I will do today: US 1.091
+	Obstacles I face: No obstacles
+
+Nov 10,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 11,2019
+	What I did yesterday:
+	What I will do today: Participate in group meeting, figure out why adding music makes program crash on my computer
+	Obstacles I face: program does not work on my computer
+
+Nov 12,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 13,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face: csc236 test
+
+Nov 14,2019
+	What I did yesterday: csc236 test
+	What I will do today: US1.15
+	Obstacles I face: None
+
+Nov 15,2019
+	What I did yesterday:
+	What I will do today: worked on playerSmart and playerSmarter
+	Obstacles I face:
+
+Nov 16,2019
+	What I did yesterday:
+	What I will do today: User can now change time
+	Obstacles I face:
+
+Nov 17,2019
+	What I did yesterday: Delayed pc move
+	What I will do today: Finish project
+    What I did on the last day: Documented stuff, AI Hint, undo button,
+    made project look better
+	Obstacles I face:
+
+Nov 18,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 19,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 20,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 21,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 22,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 23,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 24,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 25,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 26,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 27,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 28,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 29,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:

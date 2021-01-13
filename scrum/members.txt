@@ -1,0 +1,8 @@
+Member1 name:Emily Wu    email:emil.wu@mail.utoronto.ca     utorid: wuemily2
+Member2 name:JP Moreno        email:jp.moreno@mail.utoronto.ca          utorid:morenoj6
+Member3 name: Viponpreet Kaur       email: vipon.cheema@mail.utoronto.ca        utorid: cheemavi
+Member4 name:Mayra Nihal      email: mayra.nihal@mail.utoronto.ca       utorid: nihalmay
+Coach name: Arnold email: arnold@cs.toronto.edu
+
+emil.wu@mail.utoronto.ca, jp.moreno@mail.utoronto.ca, vipon.cheema@mail.utoronto.ca, mayra.nihal@mail.utoronto.ca
+
